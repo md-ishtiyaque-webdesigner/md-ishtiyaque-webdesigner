@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. Ishtiyaque Ansari 👋</h1>
-<h3 align="center">Senior Angular Developer | Frontend Architect | Full Stack Developer</h3>
+<h3 align="center">Senior Angular Developer | Frontend Architect | Full Stack Developer | Team Lead</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/md-ishtiyaque-webdesigner">
